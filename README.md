@@ -1,7 +1,1 @@
-# new
-    this my new project iam learning the git hub
-    i am learning the git hub
-    i am learning the git hub
-    i am learning the git hub
-    i am learning the git hub
-    
+In this project we write a code for Dfs and Bfs both in one code and prints both BFs and dfs .
