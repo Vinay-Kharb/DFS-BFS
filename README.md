@@ -1,1 +1,1 @@
-In this project we write a code for Dfs and Bfs both in one code and prints both BFs and dfs .
+In this project we write a code for Dfs and Bfs both in one code and prints both BFs and dfs .first we enter the number of vertices and then edges and then we enter the edges and then we print the bfs and dfs traversal of the graph.
